@@ -16,7 +16,7 @@ nav{
 main{
     background-color: #e0e0e0;
     width: 90%;
-    height: 18em;
+    height: 24em;
     margin: 0 5%;
 }
 
@@ -36,16 +36,16 @@ footer{
 .pack1{
     padding-top: 2em;
     padding-right: 1em;
-    width: 24em;
-    height: 14em;
+    width: 30em;
+    height: 22em;
 
 }
 
 .pack2{
     padding-top: 2em;
     padding-left: 1em;
-    width: 24em;
-    height: 14em;
+    width: 30em;
+    height: 22em;
 }
 
 .mejn{
