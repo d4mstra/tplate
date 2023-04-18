@@ -16,7 +16,7 @@ nav{
 main{
     background-color: #e0e0e0;
     width: 90%;
-    height: 24em;
+    height: 30em;
     margin: 0 5%;
 }
 
@@ -51,7 +51,7 @@ footer{
 .mejn{
     display: flex;
     justify-content: space-around;
-    align-content: flex-end;
+    align-content: center;
 }
 
 .home{
